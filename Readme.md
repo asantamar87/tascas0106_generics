@@ -51,4 +51,5 @@ This exercise requires an interface and three classes:
 - Java
 
 ## Author
+[Aldo Santa María]
 
